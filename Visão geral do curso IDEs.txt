@@ -1,0 +1,110 @@
+- Visão geral do curso IDEs
+
+
+* História do JAVA:
+Java é uma linguagem de programação orientada a objetos desenvolvida na década de 90, na empresa Sun
+Microsystems e posteriormente adquirida pela Oracle em 2008.
+
+Desde seu lançamento, em maio de 1995, a plataforma Java foi adotada mais rapidamente do que qualquer
+outra linguagem de programação na história da computação.
+
+
+* Características do Java:
+Java é uma linguagem interpretada.
+
+Diferente das linguagens de programação compiladas, (a compilação do código se dá ainda em tempo de 
+desenvolvimento), a linguagem Java é compilada para um bytecote que é interpretado por uma máquina
+virtual (JVM).
+
+
+* Plataforma x Linguagem:
+
+A linguagem de programação Java é a linguagem convencional da Plataforma Java, mas não é a sua única 
+linguagem.
+
+Uma grande vantagem da plataforma é a de não estar presa a um único sistema operacional ou hardware, 
+pois seus programas rodam através de uma máquina virtual que pode ser emulada.
+
+Plataformas java:
+Java SE (Java Platform, Standard Edition)    <- É a base das plataformas
+Java EE (Java Platform, Enterprise Edition)  <- Voltado para o desenvolvimento web
+Java ME (Java Platform, Micro Edition)       <- Para dispositivos moveis e embarcados
+
+
+* Fase da execução Java:
+
+programa.java   ->  compilador   -> programa.class   ->  jvm(maquina virtual java)   ->  bits
+
+1º Escrevemos o seu código-fonte (arquivo com a extenção .java)
+
+2º Utilizamos o JDK para compilar o seu código-fonte e gerar o arquivo bytecode (arquivo com a extençao
+.class)
+
+3º Para executar o seu programa, a JVM lê o arquivo compilador (.class) e as bibliotecas padrões do 
+Java que estão no JRE.
+
+
+* JDK e JRE:
+
+JDK é preciso no computador se for desenvolvedor Java, se não for desenvolverdor você só precisa ter
+o JVM que é o que executa
+
+JDK: (Java Development Kit) - é o kit de desenvolvimento Java responsável por compilar código-fonte
+(.java) em bytecode (.class)
+
+JVM (Java Virtual Machine) - é a Máquina Virtual do Java responsável por executar o bytecode (.class)
+
+JRE (Java Runtime Environment) - Ambiente de execução do Java que fornece as bibliotecas padrões do 
+Java para o JDK compilar o seu código e para a JVM executar o seu programa.
+
+
+* Versões Java:
+
+Existem a versão paga e gratuita do Java, a versão paga pertence a Oracle e a versão gratuita mais 
+utilizada pertence a OpenJDK.
+
+A principal diferença entre OpenJDK e JDK Oracle: O OpenJDK é um Java totalmente open source com uma 
+GNU (General Public License) e já o JDK Oracle requer uma licença comercial sob o Contrato de Licença 
+de Código Binário Oracle.
+
+Os lançamentos das versões OpenJDK LTS (suporte de longo prazo) acontecem pelo menos a cada quatro anos
+
+
+* O que é uma IDE:
+
+IDE, ou ambiente de desenvolvimento integrado, é um software que combina ferramentas comuns de 
+desenvolvimento em uma única interface gráfica do usuário (GUI), facilitando o desenvolvimento de 
+aplicações.
+
+O Java possui um conjunto de ferramentas para se desenvolver programas baseados nele, que são conhecidos
+como Java Development Kit ou JDK, sendo este o ambiente voltado para os desenvolvedores
+
+A JDK faz parte do funcionamento das IDEs - programas de desenvolvimento como IntelliJ, Eclipse, 
+NetBeans, entre outros.
+
+Eclipse é uma IDE para desenvolvimento Java, porém suporta várias outras linguagens. Ele foi feito em
+Java e segue o modelo open source de desenvolvimento de software.
+
+O IntelliJ IDEA é um ambiente de desenvolvimento integrado escrito em Java para o desenvolvimento de 
+software de computador. Está disponível como licenciada Apache 2, [6] e em uma edição comercial
+proprietária.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

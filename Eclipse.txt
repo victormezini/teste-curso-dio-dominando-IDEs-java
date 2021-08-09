@@ -1,0 +1,81 @@
+- Eclipse
+
+* Criando seu primeiro projeto com Eclipse:
+> Para abrir o console caso tenha fechado sem querer - window > show view > console
+
+> Para ver as perspectivas disponivéis: ctrl + 3 ou pressionando a lupa 
+
+> Para criar um novo projeto: create new project ou clicar em file > new > java project
+ou ctrl + N
+
+> Para criar uma classe onde o projeto vai ser orientado: ctrl + N > class
+
+> Para mostrar as opções de códigos: digitar o início do código, depois ctrl + N
+
+
+* Atalhos:
+
+> Para mudar o tema: window > preferences > general > appearance (escolher o tema, aplicar
+e depois reiniciar)
+
+> Para mudar tamanho da fonte: window > general > appearence > colors and fonts
+
+> Para renomear: F2 ou botão direito em cima do pacote > refactor > rename
+
+> Para expandir a tela do código: ctrl + M
+
+> Para aumentar e diminuir a fonte: ctrl + (aumenta), ctrl - (diminui)
+
+> Para comentar um bloco de códigos: /* código */
+
+> Para montar o construtor: ctrl + 3 e escrever construct
+
+> Para apagar uma linha: ctrl + D
+
+> Para mudar o bloco de lugar: selecionar as linhas que quer mudar > alt + seta pra cima ou baixo
+
+> Para organizar as linhas de código: ctrl + shift + F
+
+> Para importar as linhas do outro pacote: ctrl + shift + o
+
+
+* Git e GitHub
+
+> Para compartilhar o projeto: botão direito no projeto > team > share project
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
