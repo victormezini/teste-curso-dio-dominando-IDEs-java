@@ -1,5 +1,6 @@
 - Eclipse
 
+
 * Criando seu primeiro projeto com Eclipse:
 > Para abrir o console caso tenha fechado sem querer - window > show view > console
 
@@ -11,6 +12,7 @@ ou ctrl + N
 > Para criar uma classe onde o projeto vai ser orientado: ctrl + N > class
 
 > Para mostrar as opções de códigos: digitar o início do código, depois ctrl + N
+
 
 
 * Atalhos:
@@ -38,10 +40,45 @@ e depois reiniciar)
 
 > Para importar as linhas do outro pacote: ctrl + shift + o
 
+> Para duplicar um bloco de códigos: ctrl + alt + seta para baixo (ou cima)
+
+> Para fazer import: ctrl + shift + o
+
+> Criar uma variavél: ctrl + 1 ou ctrl + 2 + L
+
+> Atalhos para as váriaveis: ctrl + space
+
+> Para encontrar a váriavel: ctrl + shift + T
+
+> Para fechar a aba: ctrl + W
+
+> Para fechar todas as abas: ctrl + shift + W
+
+
 
 * Git e GitHub
 
 > Para compartilhar o projeto: botão direito no projeto > team > share project
+
+
+
+* Debug:
+
+> Debug ou Debugar o código é encontrar e corrigir erros que podem aparecer no programa
+
+> Colocar um brake point para mostrar onde que você quer que o debug comece, o código para e 
+você que vai dar os comandos para que o código continue
+
+> resume(F8): conclui o programa sem fazer o paço a paço do debug
+
+> Terminate(ctrl + F2): encerra o programa
+
+> step into(F5): entra dentro do método de funções em que você colocou o brake point
+
+> step over(F6): pular linha por linha
+
+> return: retorna dependendo da ação que for feita
+
 
 
 
